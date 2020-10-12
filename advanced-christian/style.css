@@ -1,0 +1,41 @@
+.head-row {
+	height: 15vw;
+}
+
+.content-item{
+	margin-left: 3vw;
+	font-size: 2vh;
+}
+
+.head-navbar{
+	height: 8vh;
+}
+
+.nav-column{
+	font-size: 3vh;
+	color: white;
+}
+
+.content-column{
+	height: 80%;
+	background-color:;
+	margin-left: 7vw;
+}
+
+
+.main-row{
+	height: 45vh;
+	background-color: black;
+}
+
+.movie-img-figure{
+	padding-left: 8vw;
+	padding-bottom: 3vw;
+}
+
+.movie-img{
+	height: 25vh;
+	padding-top: 2vw;
+	
+}
+
